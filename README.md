@@ -3,7 +3,7 @@
 <h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, Vue, Wordpress and more...</h5>
 
 
-- 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
+- 🔭  &nbsp; I’m currently working at **[Selise Digital Platforms](https://selise.ch).**
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **Vue JS**, **Wordpress**
 
