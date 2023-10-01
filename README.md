@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Shahadat Hossain</h1>
 
-<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, Vue, Wordpress and more...</h5>
+<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, Vue, WordPress and more...</h5>
 
 
-- 🔭  &nbsp; I’m currently working at **[Selise Digital Platforms](https://selise.ch).**
+- 🔭  &nbsp; I’m currently working at **[Poptin](https://poptin.com).**
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **Vue JS**, **Wordpress**
 
@@ -16,8 +16,6 @@
 - 💬  &nbsp;Ask me about **PHP, JavaScript, Laravel, Vue and Wordpress**
 
 - 📫  &nbsp;How to reach me **shahadat015@yahoo.com** [Preferrable]
-
-- 📫  &nbsp;Urgent Contact **+8801830964337** [Not Preferrable in Normal Case]
 
 - ⚡  &nbsp;Fun fact **I love to travel...:P**
 
