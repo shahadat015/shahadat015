@@ -15,7 +15,7 @@
 
 - 💬  &nbsp;Ask me about **PHP, JavaScript, Laravel, Vue and Wordpress**
 
-- 📫  &nbsp;How to reach me **shahadat015@yahoo.com** [Preferrable]
+- 📫  &nbsp;How to reach me **shahadatsaddam015@gmail.com** [Preferrable]
 
 - ⚡  &nbsp;Fun fact **I love to travel...:P**
 
